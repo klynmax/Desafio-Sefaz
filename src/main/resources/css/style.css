@@ -1,0 +1,41 @@
+/ * roboto-300 - latino * /
+@Tipo de letra {
+família de fontes: 'Roboto';
+estilo de fonte: normal;
+peso da fonte: 300;
+src: url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-300.eot']}"); / * Modos de compatibilidade do IE9 * /
+src: local ('Roboto Light'), local ('Roboto-Light'),
+    formato url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-300.eot']} # iefix") ('opentype incorporado'), / * IE6-IE8 * /
+    formato url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-300.woff2']}") ('woff2'), / * Super Navegadores Modernos * /
+    formato url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-300.woff']}") ('woff'), / * Navegadores modernos * /
+    formato url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-300.ttf']}") ('truetype'), / * Safari, Android, iOS * /
+    formato url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-300.svg']} # Roboto") ('svg'); / * IOS herdado * /
+}
+
+/ * roboto-regular - latino * /
+@Tipo de letra {
+família de fontes: 'Roboto';
+estilo de fonte: normal;
+peso da fonte: 400;
+src: url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-regular.eot']}"); / * Modos de compatibilidade do IE9 * /
+src: local ('Roboto'), local ('Roboto-Regular'),
+    formato url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-regular.eot']} # iefix") ('opentype incorporado'), / * IE6-IE8 * /
+    formato url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-regular.woff2']}") ('woff2'), / * Super Navegadores Modernos * /
+    formato url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-regular.woff']}") ('woff'), / * Navegadores modernos * /
+    formato url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-regular.ttf']}") ('truetype'), / * Safari, Android, iOS * /
+    formato url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-regular.svg']} # Roboto") ('svg'); / * IOS herdado * /
+}
+
+/ * roboto-700 - latino * /
+@Tipo de letra {
+família de fontes: 'Roboto';
+estilo de fonte: normal;
+peso da fonte: 700;
+src: url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-700.eot']}"); / * Modos de compatibilidade do IE9 * /
+src: local ('Roboto Bold'), local ('Roboto-Bold'),
+    formato url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-700.eot']} # iefix") ('opentype incorporado'), / * IE6-IE8 * /
+    formato url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-700.woff2']}") ('woff2'), / * Super Navegadores Modernos * /
+    formato url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-700.woff']}") ('woff'), / * Navegadores modernos * /
+    formato url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-700.ttf']}") ('truetype'), / * Safari, Android, iOS * /
+    formato url ("# {resource ['primefaces-mytheme: fonts / roboto-v15-latin-700.svg']} # Roboto") ('svg'); / * IOS herdado * /
+}
